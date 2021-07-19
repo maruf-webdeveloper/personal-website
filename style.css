@@ -2,6 +2,14 @@ body{
     margin: 0px;
     font-family: 'Open Sans', sans-serif;
 }
+.button-text{
+    text-decoration:none;
+    padding: 10px 20px;
+    color: white;
+    background-color:#EC487D;
+    border-radius: 5px;
+    font-weight: 900;
+}
 h1{
   font-size: 60px;
   color:#EC487D;
@@ -53,6 +61,7 @@ h2{
     width: 47%;
     padding-top: 10%;
     padding-right: 3%;
+    height: 100%;
 }
 .third-area{
     height: 500px;
@@ -92,4 +101,32 @@ h2{
 }
 #padding-h3{
     padding-top: 40px;
+}
+#footer-text{
+    text-align: center;
+    padding-bottom: 20px;
+}
+#leave-message{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display:block;
+    color: white;
+    background-color:#EC487D;
+    border-radius: 5px;
+    font-weight: 900;
+    border-radius: 10px;
+    width: 30%;
+    margin-left: 35%;
+}
+#button-cv{
+    text-decoration:none;
+    padding: 10px 20px;
+    color: white;
+    background-color:#EC487D;
+    border-radius: 5px;
+    font-weight: 900;  
+}
+#padding-message{
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
