@@ -2,3 +2,33 @@ body{
     margin: 0px;
     font-family: 'Open Sans', sans-serif;
 }
+h1{
+  font-size: 60px;
+  color:#EC487D;
+  margin-top: 0px;
+}
+h2{
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+.top-area{
+    height: 750px;;
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    
+}
+.top-leftside{
+    float: left;
+    width: 38%;
+    padding-top: 12%;
+    padding-left: 12%;
+}
+.top-rightside{
+    overflow: hidden;
+    width: 50%;
+    padding-top: 5%;
+}
+.top-rightside img{
+    width: 70%;
+}
