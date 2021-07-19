@@ -12,7 +12,7 @@ h2{
     margin-bottom: 0px;
 }
 .top-area{
-    height: 750px;;
+    height: 750px;
     background-image: url(images/header-bg.png);
     background-repeat: no-repeat;
     background-size:100% 100%;
@@ -31,4 +31,65 @@ h2{
 }
 .top-rightside img{
     width: 70%;
+}
+.second-area{
+    height: 700px;
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size:100% 100%; 
+}
+.second-leftside{
+    float: left;
+    width: 50%;
+}
+.second-leftside img{
+    width: 55%;
+    padding-top: 15%;
+    padding-left: 30%;
+    
+}
+.second-rightside{
+    overflow: hidden;
+    width: 47%;
+    padding-top: 10%;
+    padding-right: 3%;
+}
+.third-area{
+    height: 500px;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.third-leftside{
+    float: left;
+    width: 30%;
+    padding-left: 7%;
+}
+.third-middleside{
+    float: left;
+    overflow: hidden;
+    width: 30%;
+}
+.third-rightside{
+    float: left;
+    overflow: hidden;
+    width: 30%;
+
+}
+.img-size{
+    width:90%;
+}
+#text-h2-margin{
+    margin-bottom: 25px;
+    text-align: center;
+}
+.center-text{
+    height: 700px;
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#padding-h3{
+    padding-top: 40px;
 }
